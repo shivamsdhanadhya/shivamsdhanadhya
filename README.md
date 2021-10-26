@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on ML use-cases and research work.
 - 📫 How to reach me: Email: shivam.dhanadhya@gmail.com/ sdhanadhya3@gatech.edu
 
-<!---
-shivamsdhanadhya/shivamsdhanadhya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Shivam's Github Stats](https://github-readme-stats.vercel.app/api?username=shivamsdhanadhya&show_icons=true&theme=radical)
